@@ -1,0 +1,30 @@
+[submodule "luau/evaera-matter"]
+	path = luau/evaera-matter
+	url = https://github.com/evaera/matter
+[submodule "luau/osyrisrblx-t"]
+	path = luau/osyrisrblx-t
+	url = https://github.com/osyrisrblx/t
+[submodule "luau/howmanysmall-Janitor"]
+	path = luau/howmanysmall-Janitor
+	url = https://github.com/howmanysmall/Janitor
+[submodule "luau/MadStudioRoblox-ReplicaService"]
+	path = luau/MadStudioRoblox-ReplicaService
+	url = https://github.com/MadStudioRoblox/ReplicaService
+[submodule "luau/evaera-roblox-lua-promise"]
+	path = luau/evaera-roblox-lua-promise
+	url = https://github.com/evaera/roblox-lua-promise
+[submodule "luau/Roblox-roact"]
+	path = luau/Roblox-roact
+	url = https://github.com/Roblox/roact
+[submodule "luau/Quenty-NevermoreEngine"]
+	path = luau/Quenty-NevermoreEngine
+	url = https://github.com/Quenty/NevermoreEngine
+[submodule "luau/Roblox-rodux"]
+	path = luau/Roblox-rodux
+	url = https://github.com/Roblox/rodux
+[submodule "luau/Sleitnick-Knit"]
+	path = luau/Sleitnick-Knit
+	url = https://github.com/Sleitnick/Knit
+[submodule "luau/Elttob-Fusion"]
+	path = luau/Elttob-Fusion
+	url = https://github.com/Elttob/Fusion
