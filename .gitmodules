@@ -28,3 +28,33 @@
 [submodule "luau/Elttob-Fusion"]
 	path = luau/Elttob-Fusion
 	url = https://github.com/Elttob/Fusion
+[submodule "glua/Facepunch-garrysmod"]
+	path = glua/Facepunch-garrysmod
+	url = https://github.com/Facepunch/garrysmod
+[submodule "glua/SneakySquid-Circles"]
+	path = glua/SneakySquid-Circles
+	url = https://github.com/SneakySquid/Circles
+[submodule "glua/TeamUlysses-ulx"]
+	path = glua/TeamUlysses-ulx
+	url = https://github.com/TeamUlysses/ulx
+[submodule "glua/TeamUlysses-ulib"]
+	path = glua/TeamUlysses-ulib
+	url = https://github.com/TeamUlysses/ulib
+[submodule "glua/FPtje-DarkRP"]
+	path = glua/FPtje-DarkRP
+	url = https://github.com/FPtje/DarkRP
+[submodule "glua/NebulousCloud-helix"]
+	path = glua/NebulousCloud-helix
+	url = https://github.com/NebulousCloud/helix
+[submodule "glua/CapsAdmin-pac3"]
+	path = glua/CapsAdmin-pac3
+	url = https://github.com/CapsAdmin/pac3
+[submodule "glua/wiremod-wire"]
+	path = glua/wiremod-wire
+	url = https://github.com/wiremod/wire
+[submodule "glua/wiremod-advdupe2"]
+	path = glua/wiremod-advdupe2
+	url = https://github.com/wiremod/advdupe2
+[submodule "glua/wyozi-gmod-imgui"]
+	path = glua/wyozi-gmod-imgui
+	url = https://github.com/wyozi-gmod/imgui
